@@ -1,0 +1,12 @@
+{
+  "name": "hereMapsApp",
+  "displayName": "hereMapsApp",
+  "expo": {
+    "name": "hereMapsApp",
+    "slug": "hereMapsApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
